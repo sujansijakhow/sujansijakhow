@@ -1,8 +1,7 @@
 # Hey <img src="https://github.com/user-attachments/assets/19188b8b-f17e-4af8-8e53-4b6940447c37" alt="wave" style="width:50px; height:50px;">
 
 
-
-💻 I'm Sujan Sijakhow, a passionate **web developer** from **Nepal**. 
+💻 I'm Sujan Sijakhow, a passionate web developer from Nepal, crafting creative frontend designs and reliable backend solutions.
 🌐 Skilled in **frontend** and **backend** development, blending creativity with technical expertise to craft seamless user experiences.  
 🚀 Continuously exploring new tools and technologies to stay ahead in the fast-evolving world of web development.  
 

@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hey 👋
 
-<!--
-**sujansijakhow/sujansijakhow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm Sujan Sijakhow, a passionate **web developer** with a love for creating dynamic and user-friendly web applications.  
+🌐 Skilled in **frontend** and **backend** development, blending creativity with technical expertise to craft seamless user experiences.  
+🚀 Continuously exploring new tools and technologies to stay ahead in the fast-evolving world of web development.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 My Interests:
+- 🎨 Building interactive **frontend interfaces** using frameworks like **React** and **Tailwind CSS**.
+- 🛠️ Developing robust **backend systems** with **Node.js**, **Express**.
+- 🌍 Integrating APIs, optimizing performance, and ensuring scalability.
+
+---

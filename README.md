@@ -1,4 +1,5 @@
-# Hey 👋
+# Hey ![wave](https://github.com/user-attachments/assets/19188b8b-f17e-4af8-8e53-4b6940447c37)
+
 
 💻 I'm Sujan Sijakhow, a passionate **web developer** with a love for creating dynamic and user-friendly web applications.  
 🌐 Skilled in **frontend** and **backend** development, blending creativity with technical expertise to craft seamless user experiences.  

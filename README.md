@@ -2,7 +2,7 @@
 
 
 💻 I'm Sujan Sijakhow, a passionate **web developer** with a love for creating dynamic and user-friendly web applications.  
-🌐 Skilled in **frontend** development, blending creativity with technical expertise to craft seamless user experiences.  
+🌐 Skilled in **fullstack** development, blending creativity with technical expertise to craft seamless user experiences.  
 🚀 Continuously exploring new tools and technologies to stay ahead in the fast-evolving world of web development.  
 
 ---

@@ -8,8 +8,8 @@
 ---
 
 ### 🌟 My Interests:
-- 🎨 Building interactive **frontend interfaces** using frameworks like **React** and **Tailwind CSS**.
-- 🛠️ Integrating robust **backend systems** with **Node.js**, **Express**.
+- 🎨 Building interactive **frontend interfaces** using frameworks like **Next**, **TypeScript** and **Tailwind CSS**.
+- 🛠️ Integrating robust **backend systems** with **Node.js**, **Express**, **PostgressSQL**, **MongoDB**.
 - 🌍 Integrating APIs, optimizing performance, and ensuring scalability.
 
 📧 Email: sujansijakhow@gmail.com

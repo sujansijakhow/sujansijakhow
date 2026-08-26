@@ -9,6 +9,8 @@
 
 ### 🌟 My Interests:
 - 🎨 Building interactive **frontend interfaces** using frameworks like **Next**, **TypeScript** and **Tailwind CSS**.
+- 🎬 Creating smooth and engaging **web animations** using **GSAP and Framer Motion**.
+- 🌌 Exploring **3D web experiences** and interactive visuals with **Three.js**.
 - 🛠️ Integrating robust **backend systems** with **Node.js**, **Express**, **PostgressSQL**, **MongoDB**.
 - 🌍 Integrating APIs, optimizing performance, and ensuring scalability.
 
